@@ -1,6 +1,7 @@
 # EiLab
 
 A web-based playground to interact with Ei
+<img src=".design/EiLab.png" >
 
 ## Requirements
 
@@ -28,7 +29,7 @@ A web-based playground to interact with Ei
             $ yarn build
             $ yarn start
 
-4. Navigate to http://localhost:3000/ to see your web page
+4. Navigate to [http://localhost:3000/](http://localhost:3000/) to see your web page
 
 ## Documentation
 
