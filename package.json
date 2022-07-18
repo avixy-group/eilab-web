@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
+    "ammo.js": "kripken/ammo.js",
     "antd": "^4.19.5",
     "autoprefixer": "^10.4.4",
     "less": "^4.1.2",
@@ -20,10 +21,16 @@
     "postcss": "^8.4.12",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "tailwindcss": "^3.0.23"
+    "tailwindcss": "^3.0.23",
+    "three": "^0.142.0"
   },
   "devDependencies": {
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.4"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
   }
 }

@@ -1,6 +1,6 @@
-# Next.js + Ant Design + Less + Tailwind CSS Boilerplate
+# EiLab
 
-This repository is the best combination of Next.js, Ant Design, Less, and Tailwind CSS to start building web applications.
+A web-based playground to interact with Ei
 
 ## Requirements
 
@@ -11,7 +11,7 @@ This repository is the best combination of Next.js, Ant Design, Less, and Tailwi
 
 1. Clone this repository
 
-        $ git clone https://github.com/lordriyan/nextjs-antd-less-tailwindcss-boilerplate.git
+        $ git clone https://github.com/lordriyan/EiLab.git
 
 2. Install all dependecies
 
@@ -37,3 +37,17 @@ for Production
 - [Ant Design](https://ant.design/docs/react/introduce) - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 - [Less](https://lesscss.org/usage/) - It's CSS, with just a little more.
 - [Tailwind CSS](https://tailwindcss.com/docs/installation) - Rapidly build modern websites without ever leaving your HTML.
+
+## Contribution
+
+* Donation
+
+	If you find the application useful, don't forget to support me by donating funds so that I am more enthusiastic in building applications like this. You can donate via: <br><br>
+	<a href="https://trakteer.id/lord.riyan/tip" target="_blank">
+		<img src="https://trakteer.id/images/mix/navbar-logo-lite.png" alt="drawing" width="150"/>
+	</a>
+
+* By <i>Pull Request</i>
+
+	You can also contribute by developing this application
+	
